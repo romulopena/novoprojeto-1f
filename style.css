@@ -6,3 +6,8 @@ body{
 #imagem1 {
     width: 200px;
 }
+
+#conteudo-listas{
+    text-align: left;
+    color: blue;
+}
