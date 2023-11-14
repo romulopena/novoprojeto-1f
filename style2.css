@@ -1,0 +1,16 @@
+.cabecalho{
+    background-color: darkkhaki;
+    color: crimson;
+    text-align: center;
+}
+
+.cabecalho-titulo{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.cabecalho-imagem{
+    width: 800px;
+    border: 3px gold;
+    border-radius: 10px;
+}
