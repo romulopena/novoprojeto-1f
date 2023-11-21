@@ -14,3 +14,12 @@
     border: 3px gold;
     border-radius: 10px;
 }
+
+.caixa{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background-color: lightgreen;
+    color: brown;
+}
