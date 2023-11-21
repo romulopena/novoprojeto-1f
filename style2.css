@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .cabecalho{
     background-color: darkkhaki;
     color: crimson;
