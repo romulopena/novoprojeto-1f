@@ -18,7 +18,10 @@
     border: 3px gold;
     border-radius: 10px;
 }
-
+.principal{
+    text-align: center;
+    background-color: chocolate;
+}
 .caixa{
     display: inline-block;
     text-align: center;
