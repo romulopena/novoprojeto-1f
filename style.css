@@ -1,13 +1,6 @@
-body{
-    background-color: gray;
+.corpo{
+    background-color: cornflowerblue;
     text-align: center;
-}
-
-#imagem1 {
-    width: 200px;
-}
-
-#conteudo-listas{
-    text-align: left;
-    color: blue;
+    color: cornsilk;
+    border: 2cm groove green;
 }
